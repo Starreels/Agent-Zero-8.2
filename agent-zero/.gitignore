@@ -7,6 +7,9 @@
 # ignore test files in root dir
 /*.test.py
 
+# Ignore agent-files directory
+/agent-files/
+
 # Ignore git internal files (for bundler)
 .git/
 
